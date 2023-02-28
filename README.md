@@ -1,2 +1,2 @@
-# dio-desafio-primeiro-repositorio
-Repositório criado para o primeiro desafio do bootcamp de Java da DIO
+# Primeiro Respositório do Desafio do Bootacamp Java
+Repositório criado para o primeiro desafio proposto no bootcamp **Banco PAN Java Developers** (plataforma DIO)
