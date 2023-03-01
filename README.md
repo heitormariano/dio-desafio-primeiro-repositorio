@@ -13,6 +13,6 @@ Repositório criado para o primeiro desafio proposto no bootcamp **Banco PAN Jav
 
 
 ## Documentação auxiliar
-Detalhes sobre o git e seus comandos: [documentação Git](https://git-scm.com/docs/git/pt_BR)
+Detalhes sobre o git e seus comandos: [documentação Git](https://git-scm.com/docs/git/pt_BR)  
 Guia referente à linguagem Markdown: [Markdown guide](https://www.markdownguide.org/)
 
